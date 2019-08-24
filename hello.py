@@ -1,4 +1,6 @@
+// For command line git tutorial
+// GitHub modification
 print("Hello World")
-print("Tell your Mother")
-print("Tell you Father")
-print("Tell your Sister")
+print("Tell your World")
+print("Tell his world")
+print("Tell her world")
